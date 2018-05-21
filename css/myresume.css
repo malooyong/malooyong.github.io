@@ -117,10 +117,3 @@ h3 {
 	margin-top: 1rem;
 }
 
-.navbar-dark .navbar-nav .nav-link {
-    color:#4c4c4c;
-}
-
-.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
-    color: #000000;
-}
